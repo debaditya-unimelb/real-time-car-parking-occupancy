@@ -12,7 +12,7 @@ occupydata = {occupydata.name}';
 emptydata = dir(fullfile('PATH\ TO\ EMPTY\ DATASET\ FOLDER FOR TRAINING','Empty','*.jpg')); % the path has to be uploaded for the empty plots of the PKlot dataset
 emptydata = {emptydata.name}';
 testdata = dir(fullfile('PATH\ TO \A \DIFFERENT \DATASET \FOLDER FOR TESTING','*.jpg')); % A separate dataset should be used to check the transfer learning ability
-testdata = {occupydata.name}';
+testdata = {testdata.name}';
 
 
 total = length(occupydata)+ length(emptydata);
