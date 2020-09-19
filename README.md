@@ -15,7 +15,9 @@ The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occ
 
 The detailed document explaining all the steps are present [here]().
 
-[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png)
+<p align="center">
+  <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png">
+</p>
 
 # Access the tutorial PDF
 <p align="center">
