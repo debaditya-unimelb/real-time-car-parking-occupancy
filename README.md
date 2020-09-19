@@ -12,6 +12,7 @@ The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occ
 # Access the tutorial PDF
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
 
+Please cite our work if you use any part of the code:
 ```
 Acharya, D., Yan, W., Khoshelham, K., 2018. Real-time image-based parking occupancy detection using deep learning.
 In: Proceedings of the 5th Annual Conference of Research@Locate, Adelaide, Australia, CEUR Workshop Proceedings, 
