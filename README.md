@@ -19,7 +19,7 @@ The detailed document explaining all the steps are present [here]().
 
 # Access the tutorial PDF
 <p align="center">
-  <img width="928" height="732" src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png">
+  <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png">
 </p>
 
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
