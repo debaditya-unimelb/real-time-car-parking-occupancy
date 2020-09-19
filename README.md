@@ -1,5 +1,5 @@
 # Real-time image-based parking occupancy detection using deep learning (CPU Friendly implementation)
-This is the MATLAB implementation of our pulished paper using CNN + SVM classifier for the parking occupancy detection that does not require GPU for training and trains under 10 minutes with CPU providing ~99% accuracy. 
+This is the MATLAB implementation of our pulished paper using CNN + SVM classifier for the parking occupancy detection that runs without GPU for training and trains under 10 minutes with CPU providing ~99% accuracy. 
 
 The tutorial is intended to run on MATLAB 2020a, although the code can run in MATLAB versions higher than 2018a. Additional toolboxes might be required to run the experiments that include computer vision toolbox, statistics and machine learning toolbox, deep learning toolbox, signal processing toolbox and automated driving toolbox. For running the live script smoothly, please ensure to increase the java heap memory of MATLAB, as demonstrated at the start of the live script.
 
