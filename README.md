@@ -1,4 +1,4 @@
-# Real-time image-based parking occupancy detection using deep learning
+# Real-time image-based parking occupancy detection using deep learning (CPU Friendly implementation)
 This is the MATLAB implementation of 
 
 ```
