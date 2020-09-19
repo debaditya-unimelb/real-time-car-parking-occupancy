@@ -17,13 +17,13 @@ The detailed document explaining all the steps are present [here]().
 
 <p align="center">
   <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png">
-  <img href="https://www.w3schools.com">
 </p>
 
+https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail%20New.png
+
 # Access the tutorial PDF
-<p align="center">
-  <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png">
-</p>(https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
+[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail%20New.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
+
 
 Please cite our work if you use any part of the code:
 ```
