@@ -3,7 +3,8 @@ This is the MATLAB implementation of
 
 ```
 Acharya, D., Yan, W., Khoshelham, K., 2018. Real-time image-based parking occupancy detection using deep learning.
-In: Proceedings of the 5th Annual Conference of Research@Locate, Adelaide, Australia, CEUR Workshop Proceedings, vol. 2087, pp. 33–40. 
+In: Proceedings of the 5th Annual Conference of Research@Locate, Adelaide, Australia, CEUR Workshop Proceedings, 
+vol. 2087, pp. 33–40. 
 
 ```
 ```
