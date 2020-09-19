@@ -1,5 +1,5 @@
 # Real-time image-based parking occupancy detection using deep learning
-This is the MATLAB implementation of 
+This is the MATLAB implementation of:
 ```
 @inproceedings{Deb:acharya2018real,
 	title={Real-time image-based parking occupancy detection using deep learning},
@@ -14,6 +14,12 @@ This is the MATLAB implementation of
 
 The tutorial is intended to run on MATLAB 2020a, although the code can run in MATLAB versions higher than 2018a. Additional toolboxes might be required to run the experiments that include computer vision toolbox, statistics and machine learning toolbox, deep learning toolbox, signal processing toolbox and automated driving toolbox. For running the live script smoothly, please ensure to increase the java heap memory of MATLAB, as demonstrated at the start of the live script.
 
-[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
+The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.mlx) is pre-compiled file containing all the results, and the data is present in [Figshare]('https://melbourne.figshare.com/ndownloader/files/24726374).
+
+# Watch the demo
 
 [![Watch the video](https://img.youtube.com/vi/Ft94ypd4HxE/maxresdefault.jpg)](https://youtu.be/Ft94ypd4HxE)
+
+# Access the tutorial PDF
+[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
+
