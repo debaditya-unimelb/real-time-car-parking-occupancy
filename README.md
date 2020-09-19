@@ -1,5 +1,10 @@
 # Real-time image-based parking occupancy detection using deep learning
-This is the MATLAB implementation of:
+This is the MATLAB implementation of 
+
+```
+Acharya, D., Yan, W., Khoshelham, K., 2018. Real-time image-based parking occupancy detection using deep learning. In: Proceedings of the 5th Annual Conference of Research@Locate, Adelaide, Australia, CEUR Workshop Proceedings, vol. 2087, pp. 33–40. 
+
+```
 ```
 @inproceedings{Deb:acharya2018real,
 	title={Real-time image-based parking occupancy detection using deep learning},
@@ -14,7 +19,7 @@ This is the MATLAB implementation of:
 
 The tutorial is intended to run on MATLAB 2020a, although the code can run in MATLAB versions higher than 2018a. Additional toolboxes might be required to run the experiments that include computer vision toolbox, statistics and machine learning toolbox, deep learning toolbox, signal processing toolbox and automated driving toolbox. For running the live script smoothly, please ensure to increase the java heap memory of MATLAB, as demonstrated at the start of the live script.
 
-The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.mlx) is pre-compiled file containing all the results, and the data is present in [Figshare](https://melbourne.figshare.com/ndownloader/files/24726374).
+The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.mlx) is pre-compiled file containing all the results, and the data is present in [Figshare](https://melbourne.figshare.com/articles/dataset/MATLABCodeCNNSVM_zip/12978932).
 
 # Watch the demo
 
