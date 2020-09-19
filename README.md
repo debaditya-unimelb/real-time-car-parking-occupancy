@@ -13,7 +13,7 @@ The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occ
 
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/pipeline.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/pipeline.png)
 
-The detailed document explaining all the steps are present [here]().
+The detailed document explaining all the steps are present [here](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorialCombined.pdf).
 
 <p align="center">
   <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png">
@@ -22,6 +22,8 @@ The detailed document explaining all the steps are present [here]().
 # Access the tutorial PDF
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail%20New.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
 
+# Documentation
+[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/PaperThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorialCombined.pdf)
 
 Please cite our work if you use any part of the code:
 ```
