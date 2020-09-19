@@ -22,8 +22,6 @@ The detailed document explaining all the steps are present [here]().
   <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png">
 </p>
 
-[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
-
 Please cite our work if you use any part of the code:
 ```
 Acharya, D., Yan, W., Khoshelham, K., 2018. Real-time image-based parking occupancy detection using deep learning.
