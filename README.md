@@ -19,8 +19,6 @@ The detailed document explaining all the steps are present [here]().
   <img src="https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png">
 </p>
 
-https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail%20New.png
-
 # Access the tutorial PDF
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail%20New.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
 
