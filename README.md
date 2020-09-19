@@ -5,15 +5,17 @@ The tutorial is intended to run on MATLAB 2020a, although the code can run in MA
 
 The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.mlx) is pre-compiled MATLAB file containing all the results, and all the supporting data files (including pre-trained ResNet50) is present in [Figshare](https://melbourne.figshare.com/articles/dataset/MATLABCodeCNNSVM_zip/12978932).
 
+# Watch the demo
+
+[![Watch the video](https://img.youtube.com/vi/Ft94ypd4HxE/maxresdefault.jpg)](https://youtu.be/Ft94ypd4HxE)
+
 # Pipeline
 
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/pipeline.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/pipeline.png)
 
 The detailed document explaining all the steps are present [here]().
 
-# Watch the demo
-
-[![Watch the video](https://img.youtube.com/vi/Ft94ypd4HxE/maxresdefault.jpg)](https://youtu.be/Ft94ypd4HxE)
+[![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/benchmarks.png)
 
 # Access the tutorial PDF
 [![Watch the video](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/TutorialThumbnail.png)](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.pdf)
