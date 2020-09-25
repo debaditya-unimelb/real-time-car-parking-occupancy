@@ -3,6 +3,8 @@ This is the MATLAB implementation of our pulished paper using CNN + SVM classifi
 
 The tutorial is intended to run on MATLAB 2020a, although the code can run in MATLAB versions higher than 2018a. Additional toolboxes might be required to run the experiments that include computer vision toolbox, statistics and machine learning toolbox, deep learning toolbox, signal processing toolbox and automated driving toolbox. For running the live script smoothly, please ensure to increase the java heap memory of MATLAB, as demonstrated at the start of the live script.
 
+An upcoming recent work that fine-tunes deep networks and automatically delineates the parking slots can be found at https://github.com/DebadityaRMIT/Parking.
+
 The [Live Script](https://github.com/debaditya-unimelb/real-time-car-parking-occupancy/blob/master/CNNSVMTutorial.mlx) is pre-compiled MATLAB file containing all the results, and all the supporting data files (including pre-trained ResNet50) is present in [Figshare](https://melbourne.figshare.com/articles/dataset/MATLABCodeCNNSVM_zip/12978932).
 
 # Watch the demo
